@@ -7,4 +7,4 @@ Course URL:- https://www.coursera.org/learn/javascript (recommended for beginner
 
 Cool web technologies demo site:- http://intro-webdesign.com/
 
-star_struck Check out the output of 4th week assignment using GitHub pages:- 
+🤓 Check out the output of 2nd week assignment using GitHub pages:- https://bhavya4official.github.io/wd4e-js/. 
