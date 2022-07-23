@@ -1,5 +1,5 @@
 # wd4e-js
-Assignment of "Intractivity with JavaScript" course from coursera specialization "Web Design for everybody".
+Assignment of "Interactivity with JavaScript" course from coursera specialization "Web Design for everybody".
 
 Course URL:- https://www.coursera.org/learn/javascript (recommended for beginners)
 
